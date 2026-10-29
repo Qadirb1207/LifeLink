@@ -15,11 +15,6 @@ The Blood Management System is a Java-based group project developed for our Soft
 - Manage blood inventory.
 - Record blood requests.
 
-## Team Members
-- Member 1: [Name]
-- Member 2: [Name]
-- Member 3: [Name]
-- Member 4: [Name]
 
 ## Purpose
 This project aims to make blood donor and blood inventory management easier and more organized.
